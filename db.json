@@ -1,0 +1,40 @@
+{
+    "ID": "1",
+    "title": "Awesome Project 1",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.",
+    "scope": "local",
+    "taskforce": "Max M, Erika M",
+    "status": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+    "experts": "Data Analytics",
+    "link": "https://fakeboxlink.com"
+},
+{
+    "ID": "2",
+    "title": "Project 2",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.",
+    "scope": "local",
+    "taskforce": "Max M, Erika M",
+    "status": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+    "experts": "Data Analytics",
+    "link": "https://fakeboxlink.com"
+},
+{
+    "ID": "3",
+    "title": "Medium Project 3",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.",
+    "scope": "local",
+    "taskforce": "Max M, Erika M",
+    "status": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+    "experts": "Data Analytics",
+    "link": "https://fakeboxlink.com"
+},
+{
+    "ID": "4",
+    "title": "Bad Project 4",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.",
+    "scope": "local",
+    "taskforce": "Max M, Erika M",
+    "status": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+    "experts": "Data Analytics",
+    "link": "https://fakeboxlink.com"
+}
