@@ -1,5 +1,5 @@
 {
-    "ID": "1",
+    "id": 1,
     "title": "Awesome Project 1",
     "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.",
     "scope": "local",
@@ -9,7 +9,7 @@
     "link": "https://fakeboxlink.com"
 },
 {
-    "ID": "2",
+    "id": 2,
     "title": "Project 2",
     "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.",
     "scope": "local",
@@ -19,7 +19,7 @@
     "link": "https://fakeboxlink.com"
 },
 {
-    "ID": "3",
+    "id": 3,
     "title": "Medium Project 3",
     "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.",
     "scope": "local",
@@ -29,7 +29,7 @@
     "link": "https://fakeboxlink.com"
 },
 {
-    "ID": "4",
+    "id": 4,
     "title": "Bad Project 4",
     "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.",
     "scope": "local",
