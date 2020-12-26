@@ -12,8 +12,8 @@
             "experts": "Data Products",
             "link": "https://www.ecosia.org/",
             "status": [
-                { "id": 1, "name": "Max M" },
-                { "id": 2, "name": "Hans K" }
+                { "id": 1, "body": "Estimation", "done": 1 },
+                { "id": 2, "body": "Working hard", "done": 0 }
             ]
         },
         {
@@ -28,8 +28,8 @@
             "experts": "Data Products",
             "link": "https://www.ecosia.org/",
             "status": [
-                { "id": 1, "name": "Max M" },
-                { "id": 2, "name": "Hans K" }
+                { "id": 1, "body": "Estimation", "done": 1 },
+                { "id": 2, "body": "Working hard", "done": 0 }
             ]
         },
         {
@@ -44,8 +44,9 @@
             "experts": "Data Analytics",
             "link": "https://www.ecosia.org/",
             "status": [
-                { "id": 1, "name": "Max M" },
-                { "id": 2, "name": "Hans K" }
+                { "id": 1, "body": "Estimation", "done": 1 },
+                { "id": 2, "body": "Working hard", "done": 1 },
+                { "id": 3, "body": "Working even harder", "done": 0 }
             ]
         }
     ],
