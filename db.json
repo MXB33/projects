@@ -5,8 +5,29 @@
       "title": "Project 1",
       "description": "Find your new feline friend at this event.",
       "scope": "local",
-      "taskforce": "Max M, Erika M",
-      "status": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "experts": "Data Products",
+      "taskforce": [
+        {
+          "id": 1,
+          "name": "Max M",
+        },
+        {
+          "id": 2,
+          "name": "Erika M"
+        }
+      ],
+      "status": [
+        {
+          "id": 1,
+          "description": "Estimation done",
+          "done": 1
+        },
+        {
+          "id": 2,
+          "description": "Doing some things",
+          "done": 1
+        }
+      ],
       "link": "https://www.ecosia.org/"
     },
     {
@@ -14,8 +35,29 @@
       "title": "Project 2",
       "description": "Join us as we tend to the community edible plants.",
       "scope": "global",
-      "taskforce": "Max M, Erika M",
-      "status": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "experts": "Data Products",
+      "taskforce": [
+        {
+            "id": 1,
+            "name": "Helmut F",
+        },
+        {
+          "id": 2,
+          "name": "Sandra K"
+        }
+      ],
+      "status": [
+        {
+          "id": 1,
+          "description": "Estimation",
+          "done": 1
+        },
+        {
+          "id": 2,
+          "description": "Working hard",
+          "done": 1
+        }
+      ],
       "link": "https://www.ecosia.org/"
     },
     {
@@ -23,8 +65,24 @@
       "title": "Project 3",
       "description": "Help pick up trash along the shore.",
       "scope": "local",
-      "taskforce": "Max M, Erika M",
-      "status": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "experts": "Data Analytics",
+      "taskforce": [
+        {
+            "id": 1,
+            "name": "Theo X",
+        },
+        {
+          "id": 2,
+          "name": "Shorty Z"
+        }
+      ],
+      "status": [
+        {
+          "id": 1,
+          "description": "Estimation",
+          "done": 0
+        }
+      ],
       "link": "https://www.ecosia.org/"
     }
   ]
