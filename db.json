@@ -4,29 +4,20 @@
         "id": 1,
         "title": "My Project 1",
         "description": "Find your new feline friend at this event.",
-        "rep": [
-            { "id": 1, "name": "Max M" },
-            { "id": 2, "name": "Erika M" }
-        ]
+        "rep": "Max M, Erika K"
       },
       {
         "id": 2,
         "title": "My Project 2",
         "description": "Join us as we tend to the community edible plants.",
-        "rep": [
-            { "id": 1, "name": "Max M" },
-            { "id": 2, "name": "Erika M" }
-        ]
+        "rep": "Max M, Erika K"
       },
       {
         "id": 3,
         "title": "My Project 3",
         "description": "Help pick up trash along the shore.",
-        "rep": [
-            { "id": 1, "name": "Max M" },
-            { "id": 2, "name": "Erika M" }
-        ]
-      },
+        "rep": "Max M, Erika K"
+      }
     ],
     "fake": [
       { "id": 1, "body": "some fake data", "postId": 1 },
