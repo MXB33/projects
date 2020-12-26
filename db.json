@@ -38,8 +38,8 @@
       "experts": "Data Products",
       "taskforce": [
         {
-            "id": 1,
-            "name": "Helmut F",
+          "id": 1,
+          "name": "Helmut F",
         },
         {
           "id": 2,
@@ -68,8 +68,8 @@
       "experts": "Data Analytics",
       "taskforce": [
         {
-            "id": 1,
-            "name": "Theo X",
+          "id": 1,
+          "name": "Theo X",
         },
         {
           "id": 2,
