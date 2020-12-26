@@ -2,7 +2,17 @@
     "projects": [
       {
         "id": 1,
-        "title": "My Project 1"
+        "title": "My Project 1",
+        "rep" [
+            {
+                "id": 1,
+                "name": "Max M"
+            },
+            {
+                "id": ,
+                "name": "Erika M"
+            }
+        ]
       },
       {
         "id": 2,
