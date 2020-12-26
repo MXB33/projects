@@ -9,10 +9,10 @@
                 "name": "Max M"
             },
             {
-                "id": ,
+                "id": 2,
                 "name": "Erika M"
             }
-        ]
+        ],
       },
       {
         "id": 2,
@@ -26,8 +26,5 @@
     "fake": [
       { "id": 1, "body": "some fake data", "postId": 1 },
       { "id": 2, "body": "some other fake data", "postId": 1 }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+    ]
 }
