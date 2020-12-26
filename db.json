@@ -3,6 +3,7 @@
         {
             "id": 11,
             "title": "My Project 1",
+            "description": "Lorem ipsum",
             "rep": [
                 { "id": 1, "name": "Max M" },
                 { "id": 2, "name": "Hans K" }
@@ -11,6 +12,7 @@
         {
             "id": 22,
             "title": "My Project 2",
+            "description": "Lorem ipsum",
             "rep": [
                 { "id": 1, "name": "Sammy T" },
                 { "id": 2, "name": "Peter L" }
@@ -19,20 +21,15 @@
         {
             "id": 33,
             "title": "My Project 3",
+            "description": "Lorem ipsum",
             "rep": [
-                {
-                "id": 1,
-                "name": "Max M"
-                },
-                {
-                "id": 2,
-                "name": "Erika M"
-                }
+                { "id": 1, "name": "Sammy T" },
+                { "id": 2, "name": "Peter L" }
             ]
         }
-        ],
-        "fake": [
-            { "id": 1, "body": "some fake data", "postId": 1 },
-            { "id": 2, "body": "some other fake data", "postId": 1 }
+    ],
+    "fake": [
+        { "id": 1, "body": "some fake data", "postId": 1 },
+        { "id": 2, "body": "some other fake data", "postId": 1 }
     ]
 }
