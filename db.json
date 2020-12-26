@@ -10,7 +10,11 @@
                 { "id": 2, "name": "Hans K" }
             ],
             "experts": "Data Products",
-            "link": "https://www.ecosia.org/"
+            "link": "https://www.ecosia.org/",
+            "status": [
+                { "id": 1, "name": "Max M" },
+                { "id": 2, "name": "Hans K" }
+            ]
         },
         {
             "id": 22,
@@ -22,7 +26,11 @@
                 { "id": 2, "name": "Peter L" }
             ],
             "experts": "Data Products",
-            "link": "https://www.ecosia.org/"
+            "link": "https://www.ecosia.org/",
+            "status": [
+                { "id": 1, "name": "Max M" },
+                { "id": 2, "name": "Hans K" }
+            ]
         },
         {
             "id": 33,
@@ -34,7 +42,11 @@
                 { "id": 2, "name": "Peter L" }
             ],
             "experts": "Data Analytics",
-            "link": "https://www.ecosia.org/"
+            "link": "https://www.ecosia.org/",
+            "status": [
+                { "id": 1, "name": "Max M" },
+                { "id": 2, "name": "Hans K" }
+            ]
         }
     ],
     "fake": [
