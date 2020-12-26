@@ -9,7 +9,8 @@
                 { "id": 1, "name": "Max M" },
                 { "id": 2, "name": "Hans K" }
             ],
-            "experts": "Data Products"
+            "experts": "Data Products",
+            "link": "https://www.ecosia.org/"
         },
         {
             "id": 22,
@@ -20,7 +21,8 @@
                 { "id": 1, "name": "Sammy T" },
                 { "id": 2, "name": "Peter L" }
             ],
-            "experts": "Data Products"
+            "experts": "Data Products",
+            "link": "https://www.ecosia.org/"
         },
         {
             "id": 33,
@@ -31,7 +33,8 @@
                 { "id": 1, "name": "Sammy T" },
                 { "id": 2, "name": "Peter L" }
             ],
-            "experts": "Data Analytics"
+            "experts": "Data Analytics",
+            "link": "https://www.ecosia.org/"
         }
     ],
     "fake": [
