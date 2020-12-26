@@ -23,9 +23,9 @@
         "title": "My Project 2"
       }
     ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
+    "fake": [
+      { "id": 1, "body": "some fake data", "postId": 1 },
+      { "id": 2, "body": "some other fake data", "postId": 1 }
     ],
     "profile": {
       "name": "typicode"
