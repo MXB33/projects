@@ -4,14 +4,8 @@
           "id": 11,
           "title": "My Project 1",
           "rep": [
-            {
-              "id": 1,
-              "name": "Max M"
-            },
-            {
-              "id": 2,
-              "name": "Erika M"
-            }
+            { "id": 1, "body": "some fake data", "postId": 1 },
+            { "id": 2, "body": "some fake data", "postId": 1 }
           ]
         },
         {
