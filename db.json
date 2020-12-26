@@ -4,28 +4,34 @@
             "id": 11,
             "title": "My Project 1",
             "description": "Lorem ipsum",
+            "scope": "local",
             "rep": [
                 { "id": 1, "name": "Max M" },
                 { "id": 2, "name": "Hans K" }
-            ]
+            ],
+            "experts": "Data Products"
         },
         {
             "id": 22,
             "title": "My Project 2",
             "description": "Lorem ipsum",
+            "scope": "local",
             "rep": [
                 { "id": 1, "name": "Sammy T" },
                 { "id": 2, "name": "Peter L" }
-            ]
+            ],
+            "experts": "Data Products"
         },
         {
             "id": 33,
             "title": "My Project 3",
             "description": "Lorem ipsum",
+            "scope": "local",
             "rep": [
                 { "id": 1, "name": "Sammy T" },
                 { "id": 2, "name": "Peter L" }
-            ]
+            ],
+            "experts": "Data Analytics"
         }
     ],
     "fake": [
