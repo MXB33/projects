@@ -100,7 +100,16 @@
             {
                 "ID": 3,
                 "name": "Q3",
-                "allocation": 100
+                "allocation": [
+                    {
+                        "project": "Charts One",
+                        "share": 50
+                    },
+                    {
+                        "project": "Spendr",
+                        "share": 50
+                    }
+                ]
             },
             {
                 "ID": 4,
