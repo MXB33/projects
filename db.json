@@ -95,5 +95,139 @@
             }
         ]
       }
+    ],
+    "resourcesProducts": [
+      {
+        "ID": 20,
+        "name": "2020",
+        "quarters": [
+            {
+                "ID": 3,
+                "name": "Q3",
+                "allocation": [
+		            {
+		                "project": "Charts One",
+		                "share": 10,
+		            },
+		            {
+		                "project": "Online Campaigns App",
+		                "share": 10,
+		            },
+		            {
+		                "project": "DRUM",
+		                "share": 10,
+		            },
+		            {
+		                "project": "Spendr",
+		                "share": 40,
+		            },
+		            {
+		                "project": "Camino App Store",
+		                "share": 25,
+		            },
+		            {
+		                "project": "Data Products Foundation",
+		                "share": 5,
+		            },
+                ],
+            },
+            {
+                "ID": 4,
+                "name": "Q4",
+                "allocation": [
+		            {
+		                "project": "Charts One",
+		                "share": 35,
+		            },
+		            {
+		                "project": "Online Campaigns App",
+		                "share": 10,
+		            },
+		            {
+		                "project": "DRUM",
+		                "share": 15,
+		            },
+		            {
+		                "project": "Spendr",
+		                "share": 20,
+		            },
+		            {
+		                "project": "Camino App Store",
+		                "share": 15,
+		            },
+		            {
+		                "project": "Data Products Foundation",
+		                "share": 5,
+		            },
+                ],
+            }
+        ]
+      },
+	{
+        "ID": 21,
+        "name": "2021",
+        "quarters": [
+            {
+                "ID": 1,
+                "name": "Q1",
+                "allocation": [
+		            {
+		                "project": "Charts One",
+		                "share": 50,
+		            },
+		            {
+		                "project": "MESH (Online Campaings App)",
+		                "share": 10,
+		            },
+		            {
+		                "project": "DRUM",
+		                "share": 10,
+		            },
+		            {
+		                "project": "Spendr",
+		                "share": 10,
+		            },
+		            {
+		                "project": "Camino App Store",
+		                "share": 10,
+		            },
+		            {
+		                "project": "Data Products Foundation",
+		                "share": 5,
+		            },
+                ],
+            },
+            {
+                "ID": 2,
+                "name": "Q2",
+                "allocation": [
+		            {
+		                "project": "Charts One",
+		                "share": 50,
+		            },
+		            {
+		                "project": "MESH (Online Campaings App)",
+		                "share": 20,
+		            },
+		            {
+		                "project": "DRUM",
+		                "share": 10,
+		            },
+		            {
+		                "project": "Spendr",
+		                "share": 5,
+		            },
+		            {
+		                "project": "Camino App Store",
+		                "share": 10,
+		            },
+		            {
+		                "project": "Data Products Foundation",
+		                "share": 5,
+		            },
+                ],
+            }
+        ]
+      },
     ]    
 }
