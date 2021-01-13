@@ -95,5 +95,47 @@
             }
         ]
       }
+    ],
+    "resourcesProducts": [
+      {
+        "ID": 1,
+        "name": "2020",
+        "items": [
+            {
+                "ID": 1,
+                "section": "Project estimation",
+                "topic": "Data guidance & transparency",
+                "host": "All Data Experts",
+                "time": 10
+            },
+            {
+                "ID": 2,
+                "section": "Project estimation",
+                "topic": "Data guidance & transparency",
+                "host": "All Data Experts",
+                "time": 10
+            }
+        ]
+      },
+      {
+        "ID": 2,
+        "name": "2021",
+        "items": [
+            {
+                "ID": 1,
+                "section": "Project estimation",
+                "topic": "Data guidance & transparency",
+                "host": "All Data Experts",
+                "time": 10
+            },
+            {
+                "ID": 2,
+                "section": "Project estimation",
+                "topic": "Data guidance & transparency",
+                "host": "All Data Experts",
+                "time": 10
+            }
+        ]
+      }
     ]
 }
