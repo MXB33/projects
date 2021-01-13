@@ -53,5 +53,47 @@
     "fake": [
         { "id": 1, "body": "some fake data", "postId": 1 },
         { "id": 2, "body": "some other fake data", "postId": 1 }
-    ]
+    ],
+    "meetings": [
+      {
+        "ID": 1,
+        "date": "15.07.2020",
+        "items": [
+            {
+                "ID": 1,
+                "section": "Project estimation",
+                "topic": "Data guidance & transparency",
+                "host": "All Data Experts",
+                "time": 10
+            },
+            {
+                "ID": 2,
+                "section": "Project estimation",
+                "topic": "Data guidance & transparency",
+                "host": "All Data Experts",
+                "time": 10
+            }
+        ]
+      },
+      {
+        "ID": 2,
+        "date": "15.08.2020",
+        "items": [
+            {
+                "ID": 1,
+                "section": "Project estimation",
+                "topic": "Data guidance & transparency",
+                "host": "All Data Experts",
+                "time": 10
+            },
+            {
+                "ID": 2,
+                "section": "Project estimation",
+                "topic": "Data guidance & transparency",
+                "host": "All Data Experts",
+                "time": 10
+            }
+        ]
+      }
+    ]    
 }
