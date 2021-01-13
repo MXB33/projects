@@ -102,18 +102,14 @@
         "name": "2020",
         "items": [
             {
-                "ID": 1,
-                "section": "Project estimation",
-                "topic": "Data guidance & transparency",
-                "host": "All Data Experts",
-                "time": 10
+                "ID": 3,
+                "name": "Q3",
+                "allocation": 100
             },
             {
-                "ID": 2,
-                "section": "Project estimation",
-                "topic": "Data guidance & transparency",
-                "host": "All Data Experts",
-                "time": 10
+                "ID": 4,
+                "name": "Q4",
+                "allocation": 100
             }
         ]
       },
@@ -123,17 +119,13 @@
         "items": [
             {
                 "ID": 1,
-                "section": "Project estimation",
-                "topic": "Data guidance & transparency",
-                "host": "All Data Experts",
-                "time": 10
+                "name": "Q1",
+                "allocation": 100
             },
             {
                 "ID": 2,
-                "section": "Project estimation",
-                "topic": "Data guidance & transparency",
-                "host": "All Data Experts",
-                "time": 10
+                "name": "Q2",
+                "allocation": 100
             }
         ]
       }
