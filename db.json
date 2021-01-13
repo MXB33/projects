@@ -128,8 +128,8 @@
 		            {
 		                "project": "Data Products Foundation",
 		                "share": 5,
-		            },
-                ],
+		            }
+                ]
             },
             {
                 "ID": 4,
@@ -158,8 +158,8 @@
 		            {
 		                "project": "Data Products Foundation",
 		                "share": 5,
-		            },
-                ],
+		            }
+                ]
             }
         ]
       },
@@ -194,8 +194,8 @@
 		            {
 		                "project": "Data Products Foundation",
 		                "share": 5,
-		            },
-                ],
+		            }
+                ]
             },
             {
                 "ID": 2,
@@ -224,10 +224,10 @@
 		            {
 		                "project": "Data Products Foundation",
 		                "share": 5,
-		            },
-                ],
+		            }
+                ]
             }
         ]
-      },
+      }
     ]    
 }
